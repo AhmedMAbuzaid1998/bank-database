@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1702821093 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\add.c
+	<stdio.h>
+	"def.h"
+
+1702830235 e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\def.h
+
+1702819318 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"def.h"
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\edit.c
+	<stdio.h>
+	"def.h"
+
+1702821060 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\print.c
+	<stdio.h>
+	"def.h"
+
+1702819252 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\transfer.c
+	<stdio.h>
+	"def.h"
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\bank\bank database v2\bank v2\delete.c
+	<stdio.h>
+	"def.h"
+	<string.h>
+
+1702830235 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\add.c
+	<stdio.h>
+	"def.h"
+
+1702830235 e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\def.h
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\delete.c
+	<stdio.h>
+	"def.h"
+	<string.h>
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\edit.c
+	<stdio.h>
+	"def.h"
+
+1702819318 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"def.h"
+
+1702821060 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\print.c
+	<stdio.h>
+	"def.h"
+
+1702819252 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\transfer.c
+	<stdio.h>
+	"def.h"
+
