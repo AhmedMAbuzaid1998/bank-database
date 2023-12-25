@@ -1,4 +1,5 @@
-#define clients_array 2
+#define clients_array 2 //number of clients in bank you can adjust it as you want
+//structure of client
 typedef struct
  {
      int id;

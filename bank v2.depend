@@ -57,3 +57,32 @@
 	<stdio.h>
 	"def.h"
 
+1702830235 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\add.c
+	<stdio.h>
+	"def.h"
+
+1703417083 e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\def.h
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\delete.c
+	<stdio.h>
+	"def.h"
+	<string.h>
+
+1702829922 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\edit.c
+	<stdio.h>
+	"def.h"
+
+1702819318 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"def.h"
+
+1702821060 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\print.c
+	<stdio.h>
+	"def.h"
+
+1702819252 source:e:\embedded system\es diploma e.mz\programs\c\bank\bank database v2\bank v2\bank-database\transfer.c
+	<stdio.h>
+	"def.h"
+
