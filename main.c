@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include "def.h"
-client bank_clients[clients_array];
+client bank_clients[clients_array];/*client structure datatype
+                                    bank_clients name
+                                    clients_array macro number of clients*/
 int client_counter=0;
 int main()
 {
@@ -21,19 +23,19 @@ int main()
         switch(option)
         {
         case '1'://adding new client
-            add_client(&bank_clients[clients_array]);
+            add_client(bank_clients);
             break;
         case '2'://editing clients details
-            edit_client(&bank_clients[clients_array]);
+            edit_client(bank_clients);
             break;
         case '3'://printing clients details
-            print_client(&bank_clients[clients_array]);
+            print_client(bank_clients);
             break;
         case '4'://deleting client details
-            delete_client(&bank_clients[clients_array]);
+            delete_client(bank_clients);
             break;
         case '5'://transfer money from client to another client
-            trans_money(&bank_clients[clients_array]);
+            trans_money(bank_clients);
             break;
         case '6'://exit the program
             stop=0;
